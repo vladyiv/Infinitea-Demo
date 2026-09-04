@@ -1,1 +1,1 @@
-qwertyuiop
+Conflict is resolved!
